@@ -1,0 +1,12 @@
+Read me: (it's very important that you will learn the knowledge)
+Mybatis:
+  *  what's Mybatis framework? [done]
+  *  How to use it about the framework of the mybatis
+           step: (1) add mybatis jar file to project
+                 (2) add mysql jar file to project
+                 (3) add some config files which from mybatis framework to project
+                           * core config file [sqlMapConfig.xml]
+                           * database will be established by yourself projects
+                 (4) set up persistent object in your projects
+                 (5) configurable mapping file from PO
+                 (6) you had added log4j if you were to see details information of the mybatis output stream
